@@ -14,9 +14,9 @@ From the beginning, we have benefited greatly from the amazing all-volunteer **h
 
 Would you like to help save the orcas and contribute to open source software? 
 
-The Orcasound organisation on Github has a growing number of projects to which coders (front/back end developers, bioacousticians) and designers can contribute. As our community expands, there are also roles for project managers, mentors, and hardware engineers. Our community is super-friendly, communication mainly happens on Slack, and there are weekly meetings where you can introduce yourself and listen in to what others are doing. 
+The Orcasound organisation on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end developers, bioacousticians, data scientists) and **designers** (and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack, and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
 
-Here is the [current onboarding doc](https://docs.google.com/document/d/1Pjh5juthsG0sv7hYCtwgeXgNSlkmIt0p0bw17Y4VXco/edit#heading=h.qybrobkq5dm5) where you can find more info about our current motivation, high-priority projects, and how to join our community.
+Here is the [current onboarding doc](https://docs.google.com/document/d/1Pjh5juthsG0sv7hYCtwgeXgNSlkmIt0p0bw17Y4VXco/edit#heading=h.qybrobkq5dm5) where you can find more info about our current motivations, high-priority projects, and how to join our community.
 
 ### On the horizon (updated Oct 2021) 
 
