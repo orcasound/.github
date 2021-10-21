@@ -1,6 +1,6 @@
 ## Ahoy, this is Orcasound 👋
 
-![Our most-inspirational image of what we're trying to help save.](inpiration-image.jpg)
+<img alt="Our most-inspirational image of the orcas we're trying to help save: a single fin being watched by many riders from the decks of a Washington State ferry." src="https://user-images.githubusercontent.com/14044595/138359353-7ed3b581-613f-40f4-98ea-eacb91c5b04b.png">
 
 ### Our voyage thus far
 
