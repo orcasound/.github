@@ -28,8 +28,8 @@ Our long-term motivation is to make the [Orcasound web app](https://live.orcasou
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li> If you're interested in machine learning you can [access Orcasound's open data](https://github.com/orcasound/orcadata/wiki) and [peruse deployed project summaries at ai4orcas.net](https://ai4orcas.net/portfolio/)
-	<li> If you're a prospective Google Summer of Code student, don't miss [Orcasound's GSoC project page](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/) and [open source advice from Orcasound's past GSoC students](https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md)!
+		<li> If you're interested in machine learning you can <a href="https://github.com/orcasound/orcadata/wiki">access Orcasound's open data</a> and <a href="https://ai4orcas.net/portfolio/">peruse deployed project summaries at ai4orcas.net</a>
+		<li> If you're a prospective Google Summer of Code student, don't miss <a href="https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/">Orcasound's GSoC project page</a> and <a href="https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md">open source advice from Orcasound's past GSoC students</a>!
 	</ul>
 
 ---
