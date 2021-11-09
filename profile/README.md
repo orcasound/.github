@@ -16,7 +16,7 @@ See what's next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/o
 
 Our long-term motivation is to make the [Orcasound web app](https://live.orcasound.net/) and our other projects into an more-and-more effective suite of conservation tools. Along the way, we are trying to be as open, modular, and foresightful as possible in the hope that what we build for orcas will help bioacousticans and conservationists study and save other soniferous species around the planet.
 
-<h2> Welcome Aboard! 🚂 </h2>
+<h2> Welcome Aboard! 🛳️ </h2>
 
 Would you like to help save the orcas and contribute to open source software? 
 
