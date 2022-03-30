@@ -38,7 +38,7 @@ See below for how you can join the Orcasound community and start contributing ri
 
 * <h3> Google Summer of Code Prospective Student </h3>
 
-	+ If you're a prospective Google Summer of Code student, don't miss [Orcasound's GSoC project page](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/) and [open source advice from Orcasound's past GSoC students](https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md)!
+	+ If you're a prospective Google Summer of Code contributor, don't miss [Orcasound's GSoC project page](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/) and [open source advice from Orcasound's past GSoC participants](https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md)!
 
  * <h3> UX/UI Designers </h3>
 
