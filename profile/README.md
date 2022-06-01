@@ -8,7 +8,7 @@ Since an [Orcasound Kickstarter in 2017](https://www.kickstarter.com/projects/sv
 
 We began with the challenge of building an end-to-end audio live-streaming solution to make it easy to *listen for whales* through the [Orcasound network of underwater microphones](https://orcasound.net) ("hydrophones") in orca habitat. The [orcanode repo](https://github.com/orcasound/orcanode) generates the audio data streams and the [orcasite repo](https://github.com/orcasound/orcasite) provides a web app for playback that "just works" in any browser and scales efficiently. 
 
-From the beginning, we have benefited greatly from the amazing all-volunteer **hackathon** community -- mainly through the organizational efforts of [DemocracyLab](https://www.democracylab.org/projects/81) and [Microsoft Garage](https://www.microsoft.com/en-us/garage/) -- both through in-person events in/near Seattle (Washington, USA) as well as many virtual events during the COVID pandemic. Both Microsoft's [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program and [Amazon Activate](https://aws.amazon.com/activate/) have supported our efforts with grants and/or cloud service credits. Starting in 2020, we have mentored Google Summer of Code students in the [orcagsoc repo](https://github.com/orcasound/orcagsoc). 
+From the beginning, we have benefited greatly from the amazing all-volunteer **hackathon** community -- mainly through the organizational efforts of [DemocracyLab](https://www.democracylab.org/projects/81) and [Microsoft Garage](https://www.microsoft.com/en-us/garage/) -- both through in-person events in/near Seattle (Washington, USA) as well as many virtual events during the COVID pandemic. Both Microsoft's [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program and [Amazon Activate](https://aws.amazon.com/activate/) have supported our efforts with grants and/or cloud service credits. Starting in 2020, we have mentored Google Summer of Code contributors in the [orcagsoc repo](https://github.com/orcasound/orcagsoc). 
 
 <h2> On the Horizon (Updated Oct 2021) 🗺️ </h2>
 
@@ -36,7 +36,7 @@ See below for how you can join the Orcasound community and start contributing ri
 
 	+ If you're interested in machine learning you can [access Orcasound's open data](https://github.com/orcasound/orcadata/wiki) and [peruse deployed project summaries at ai4orcas.net](https://ai4orcas.net/portfolio/) </p>
 
-* <h3> Google Summer of Code Prospective Student </h3>
+* <h3> Google Summer of Code Prospective Contributors </h3>
 
 	+ If you're a prospective Google Summer of Code contributor, don't miss [Orcasound's GSoC project page](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/) and [open source advice from Orcasound's past GSoC participants](https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md)!
 
