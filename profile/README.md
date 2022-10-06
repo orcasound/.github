@@ -35,6 +35,15 @@ See below for how you can join the Orcasound community and start contributing ri
 * <h3> Machine Learning </h3>
 
 	+ If you're interested in machine learning you can [access Orcasound's open data](https://github.com/orcasound/orcadata/wiki) and [peruse deployed project summaries at ai4orcas.net](https://ai4orcas.net/portfolio/) </p>
+	+ How to download the training and testing data for ML models?
+		+ Follow instructions in [Data access AWS CLI](https://github.com/orcasound/orcadata/wiki/Data-access-via-AWS-CLI) to download static ML data.
+		+ If you have not used AWS CLI before, or if you want to learn more about the available buckets, proceed [here](https://github.com/orcasound/orcadata/blob/master/access.md) to read a high-level summery of the AWS buckets.
+		+ A subset of Orcasound’s open labeled data includes data archives that were prepared via the Pod.Cast system. The [Pod.Cast data archive wiki page](https://github.com/orcasound/orcadata/wiki/Pod.Cast-data-archive) provides instructions on how to download Pod.Cast data. This is a good place to start if you want to take a look at the labeled data.
+		+ If you want a python script to handle the data download, [download_datasets.py](https://github.com/orcasound/aifororcas-orcaml/blob/master/data_ml/tools/download_datasets.py) would help you with that.
+	+ How to find the code for the latest model? 
+		+ The current deployed model is called [OrcaHello live inference system](https://ai4orcas.net/portfolio/orcahello/). Its github repo is [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem). 
+		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
+
 
 * <h3> Google Summer of Code Prospective Contributors </h3>
 
