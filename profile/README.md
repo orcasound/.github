@@ -20,7 +20,7 @@ Our long-term motivation is to make the [Orcasound web app](https://live.orcasou
 
 Would you like to help save the orcas and contribute to open source software? 
 
-The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack ([you're invited!](https://join.slack.com/t/orcasound/shared_invite/zt-bd1jk2q9-FjeWr3OzocDBwDgS0g1FdQ)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
+The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack ([you're invited!](https://join.slack.com/t/orcasound/shared_invite/zt-1jr7te193-ObLYcTxx4s7SO7EA9kmcaw)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
 
 Here is the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing) where you can find more info about Orcasound's motivations, code of conduct, and high-priority projects.
 
@@ -28,7 +28,7 @@ See below for how you can join the Orcasound community and start contributing ri
 
 * <h3> Developers </h3>
 
-	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's [#dev-general](https://orcasound.slack.com/archives/C01HLLQ0UTG) Slack channel!
+	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's U#dev-general Slack channel!
 
 	+ Active Github repositories for our high-priority 2023 projects are [orcasite](https://github.com/orcasound/orcasite) for the live listening app and human detections, [orcanode](https://github.com/orcasound/orcanode) for the hydrophone network's audio streaming software (running on Raspberry Pis), [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem) for the OrcaHello AI system that auto-detects sounds, [orcamap-react](https://github.com/orcasound/orcamap-react) for mapping and analyzing SRKW location data, and [orca-shipnoise](https://github.com/orcasound/orca-shipnoise) for monitoring underwater noise pollution from large vessels that can interfere with orca communication. ***Please see each repo's CONTRIBUTING.md document for details!***
 
