@@ -10,17 +10,17 @@ We began with the challenge of building an end-to-end audio live-streaming solut
 
 From the beginning, we have benefited greatly from the amazing all-volunteer **hackathon** community -- mainly through the organizational efforts of [DemocracyLab](https://www.democracylab.org/projects/81) and [Microsoft Garage](https://www.microsoft.com/en-us/garage/) -- both through in-person events in/near Seattle (Washington, USA) as well as many virtual events during the COVID pandemic. Both Microsoft's [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program and [Amazon Activate](https://aws.amazon.com/activate/) have supported our efforts with grants and/or cloud service credits. Starting in 2020, we have mentored Google Summer of Code contributors in the [orcagsoc repo](https://github.com/orcasound/orcagsoc). 
 
-<h2> On the Horizon (Updated Nov 2022) 🗺️ </h2>
+<h2> On the Horizon (Updated Feb 2023) 🗺️ </h2>
 
-See what's next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/orcasound-roadmap). You can also suggest or vote up features!
+See what's next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/orcasound-roadmap). You can also suggest or vote up features! As of 2023, you can [join top-level discussions](https://github.com/orcasound/.github/discussions) and [help manage over-arching projects](https://github.com/orcasound/.github/projects?query=is%3Aopen) in our oranizational repo.
 
-Our long-term motivation is to make the [Orcasound web app](https://live.orcasound.net/) and our other open source projects into a more-and-more effective suite of conservation tools. Along the way, we are trying to be as open, modular, and foresightful as possible in the hope that what we build for orcas will help bioacousticans and conservationists study and save other soniferous species around the planet.
+Our long-term motivation is to make the [Orcasound web app](https://live.orcasound.net/) and our other open source projects into a more-and-more effective suite of free conservation tools. Along the way, we are trying to be as open, sharing, modular, and foresightful as possible in the hope that what we build for orcas will help bioacousticans and conservationists study and save other soniferous species around the planet.
 
 <h2> Welcome Aboard! 🛳️ </h2>
 
 Would you like to help save the orcas and contribute to open source software? 
 
-The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack ([you're invited!](https://join.slack.com/t/orcasound/shared_invite/zt-1jr7te193-ObLYcTxx4s7SO7EA9kmcaw)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
+The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back-end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack ([you're invited!](https://join.slack.com/t/orcasound/shared_invite/zt-1jr7te193-ObLYcTxx4s7SO7EA9kmcaw)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
 
 Here is the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing) where you can find more info about Orcasound's motivations, code of conduct, and high-priority projects.
 
