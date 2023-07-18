@@ -12,7 +12,7 @@ From the beginning, we have benefited greatly from the amazing all-volunteer **h
 
 <h2> On the Horizon (Updated Feb 2023) 🗺️ </h2>
 
-See what's next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/orcasound-roadmap). You can also suggest or vote up features! As of 2023, you can [join top-level discussions](https://github.com/orcasound/.github/discussions) and [help manage over-arching projects](https://github.com/orcasound/.github/projects?query=is%3Aopen) in our oranizational repo.
+See what's next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/orcasound-roadmap). You can also suggest or vote up features! As of 2023, you can [join top-level discussions](https://github.com/orcasound/.github/discussions) and [help manage overarching projects](https://github.com/orcasound/.github/projects?query=is%3Aopen) in our oranizational repo.
 
 Our long-term motivation is to make the [Orcasound web app](https://live.orcasound.net/) and our other open source projects into a more-and-more effective suite of free conservation tools. Along the way, we are trying to be as open, sharing, modular, and foresightful as possible in the hope that what we build for orcas will help bioacousticans and conservationists study and save other soniferous species around the planet.
 
@@ -48,13 +48,16 @@ See below for how you can join the Orcasound community and start contributing ri
 
 	+ If you're interested in contributing design, go ahead and introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel and check out our current work in the [UX Team's public Google Drive folder!](https://drive.google.com/drive/folders/1RGAnSUuAfbjw4JjFzqswAvvn9Wz2v2dK?usp=sharing)!
 
+---
 <sub>
 
 🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 
-
+<details>
 * <h3> Google Summer of Code Prospective Contributors </h3>
 
 	+ If you're a prospective Google Summer of Code contributor, don't miss [Orcasound's GSoC project page](https://www.orcasound.net/portfolio/google-summer-of-code-open-source-software-for-students-orcas/) and [open source advice from Orcasound's past GSoC participants](https://github.com/orcasound/orcagsoc/blob/master/OPEN-SOURCE-best-practice+tips.md)!
+</details>
+
 
 </sub>
