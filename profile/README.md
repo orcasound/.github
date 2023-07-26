@@ -44,9 +44,14 @@ See below for how you can join the Orcasound community and start contributing ri
 		+ The current deployed model is called [OrcaHello live inference system](https://ai4orcas.net/portfolio/orcahello/). Its github repo is [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem). 
 		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
 
- * <h3> UX/UI Designers </h3>
+ * <h3> UX Team </h3>
 
-	+ If you're interested in contributing design, go ahead and introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel and check out our current work in the [UX Team's public Google Drive folder!](https://drive.google.com/drive/folders/1RGAnSUuAfbjw4JjFzqswAvvn9Wz2v2dK?usp=sharing)!
+	+ We have an incredible UX team, made up of enthusiastic UX Researchers, UX Designers, Content Strategy folks, UX Writers, and more! We highly encourage a culture of professional learning and growth fueled by mentorship and learning from mistakes. If you're interested in volunteering as a UX Team member:
+		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
+		+ Access onboarding resources:
+			+ [Orcasound UX Team Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home)
+   			+ [Onboarding Resources in our product wiki](https://github.com/orcasound/product/wiki)
+    
 
 ---
 <sub>
