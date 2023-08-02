@@ -49,9 +49,7 @@ See below for how you can join the Orcasound community and start contributing ri
 	+ We have an incredible UX team made up of UX Researchers, UX Designers, Content Strategy folks, UX Writers, and more! We highly encourage a culture of professional learning and growth fueled by mentorship and learning by doing. If you're interested in volunteering as a UX Team member:
 		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
 		+ Access onboarding resources:
-			+ [Orcasound UX Team Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home)
-   			+ [Onboarding Resources in our product wiki](https://github.com/orcasound/product/wiki)
-    
+   			+ [Onboarding Resources in our Product wiki](https://github.com/orcasound/product/wiki)
 
 ---
 <sub>
