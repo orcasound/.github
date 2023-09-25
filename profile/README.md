@@ -50,6 +50,7 @@ See below for how you can join the Orcasound community and start contributing ri
 		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
 		+ Access onboarding resources:
    			+ [Onboarding Resources in our Product wiki](https://github.com/orcasound/product/wiki)
+      			+ The [Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home) is a great place to start!
 
 ---
 <sub>
