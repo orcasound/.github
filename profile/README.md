@@ -32,7 +32,15 @@ See below for how you can join the Orcasound community and start contributing ri
 
 	+ Active Github repositories for our high-priority 2023 projects are [orcasite](https://github.com/orcasound/orcasite) for the live listening app and human detections, [orcanode](https://github.com/orcasound/orcanode) for the hydrophone network's audio streaming software (running on Raspberry Pis), [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem) for the OrcaHello AI system that auto-detects sounds, [orcamap-react](https://github.com/orcasound/orcamap-react) for mapping and analyzing SRKW location data, and [orca-shipnoise](https://github.com/orcasound/orca-shipnoise) for monitoring underwater noise pollution from large vessels that can interfere with orca communication. ***Please see each repo's CONTRIBUTING.md document for details!***
 
-* <h3> Machine Learning </h3>
+ * <h3> Product and UX Team </h3>
+
+	+ We have an incredible team made up of Product Managers, UX Researchers, UX Designers, Content Strategy folks, UX Writers, and more! We highly encourage a culture of professional learning and growth fueled by mentorship and learning by doing. If you're interested in volunteering as a Product and UX Team member:
+		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
+		+ Access onboarding resources:
+   			+ [Onboarding Resources in our Product wiki](https://github.com/orcasound/product/wiki)
+      		+ The [Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home) is a great place to start!
+
+  * <h3> Data Scientists </h3>
 
 	+ If you're interested in machine learning you can [access Orcasound's open data](https://github.com/orcasound/orcadata/wiki) -- raw live/archived audio and labeled recordings -- and [peruse deployed project summaries at ai4orcas.net](https://ai4orcas.net/portfolio/) </p>
 	+ How to download the training and testing data for ML models?
@@ -43,14 +51,6 @@ See below for how you can join the Orcasound community and start contributing ri
 	+ How to find the code for the latest model? 
 		+ The current deployed model is called [OrcaHello live inference system](https://ai4orcas.net/portfolio/orcahello/). Its github repo is [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem). 
 		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
-
- * <h3> Product and UX Team </h3>
-
-	+ We have an incredible team made up of Product Managers, UX Researchers, UX Designers, Content Strategy folks, UX Writers, and more! We highly encourage a culture of professional learning and growth fueled by mentorship and learning by doing. If you're interested in volunteering as a Product and UX Team member:
-		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
-		+ Access onboarding resources:
-   			+ [Onboarding Resources in our Product wiki](https://github.com/orcasound/product/wiki)
-      		+ The [Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home) is a great place to start!
 
 ---
 <sub>
