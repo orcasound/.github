@@ -28,7 +28,7 @@ See below for how you can join the Orcasound community and start contributing ri
 
 * <h3> Developers </h3>
 
-	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's U#dev-general Slack channel!
+	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's [#dev-general](https://orcasound.slack.com/archives/C01HLLQ0UTG) Slack channel!
 
 	+ Active Github repositories for our high-priority 2023 projects are [orcasite](https://github.com/orcasound/orcasite) for the live listening app and human detections, [orcanode](https://github.com/orcasound/orcanode) for the hydrophone network's audio streaming software (running on Raspberry Pis), [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem) for the OrcaHello AI system that auto-detects sounds, [orcamap-react](https://github.com/orcasound/orcamap-react) for mapping and analyzing SRKW location data, and [orca-shipnoise](https://github.com/orcasound/orca-shipnoise) for monitoring underwater noise pollution from large vessels that can interfere with orca communication. ***Please see each repo's CONTRIBUTING.md document for details!***
 
@@ -51,6 +51,11 @@ See below for how you can join the Orcasound community and start contributing ri
 	+ How to find the code for the latest model? 
 		+ The current deployed model is called [OrcaHello live inference system](https://ai4orcas.net/portfolio/orcahello/). Its github repo is [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem). 
 		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
+
+<h2> Community 🙌 </h2>
+If you have questions or would like to engage with our community of developers and designers, you are welcome to contact us and chat with other like-minded individuals.
+
+[Join us on Zulip](https://orcasound.zulipchat.com/)
 
 ---
 <sub>
