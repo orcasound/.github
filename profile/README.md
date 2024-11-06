@@ -20,22 +20,22 @@ Our long-term motivation is to make the [Orcasound web app](https://live.orcasou
 
 Would you like to help save the orcas and contribute to open source software? 
 
-The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back-end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Slack ([you're invited!](https://join.slack.com/t/orcasound/shared_invite/zt-293mdpy47-El~xXZA6YmHOWoCzB~8WpQ)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
+The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back-end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Zulip ([you're invited!](https://orcasound.zulipchat.com/join/42uml7y5yr7n7pbc7k2icbcb/)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
 
-Here is the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing) where you can find more info about Orcasound's motivations, code of conduct, and high-priority projects.
+Here is the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing)(v.2022) where you can find more info about Orcasound's motivations, code of conduct, and high-priority projects.
 
 See below for how you can join the Orcasound community and start contributing right away!
 
 * <h3> Developers </h3>
 
-	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's U#dev-general Slack channel!
+	+ If you're interested in contributing code, we would welcome your input on any of our projects listed in the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing). If you are interested in making a contribution to any of the listed projects, or would like to make a bigger commitment to Orcasound long-term, go ahead and introduce yourself in Orcasound's [#dev-general channel](https://orcasound.zulipchat.com/#narrow/channel/437054-dev-general)!
 
 	+ Active Github repositories for our high-priority 2023 projects are [orcasite](https://github.com/orcasound/orcasite) for the live listening app and human detections, [orcanode](https://github.com/orcasound/orcanode) for the hydrophone network's audio streaming software (running on Raspberry Pis), [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem) for the OrcaHello AI system that auto-detects sounds, [orcamap-react](https://github.com/orcasound/orcamap-react) for mapping and analyzing SRKW location data, and [orca-shipnoise](https://github.com/orcasound/orca-shipnoise) for monitoring underwater noise pollution from large vessels that can interfere with orca communication. ***Please see each repo's CONTRIBUTING.md document for details!***
 
  * <h3> Product and UX Team </h3>
 
 	+ We have an incredible team made up of Product Managers, UX Researchers, UX Designers, Content Strategy folks, UX Writers, and more! We highly encourage a culture of professional learning and growth fueled by mentorship and learning by doing. If you're interested in volunteering as a Product and UX Team member:
-		+ Introduce yourself in Orcasound's [#ux-general](https://orcasound.slack.com/archives/CE5KAK4D6) Slack channel 
+		+ Introduce yourself in Orcasound's [#ux-team channel](https://orcasound.zulipchat.com/#narrow/channel/437042-ux-team) 
 		+ Access onboarding resources:
    			+ [Onboarding Resources in our Product wiki](https://github.com/orcasound/product/wiki)
       		+ The [Onboarding Website](https://sites.google.com/view/orcasound-onboarding-site/home) is a great place to start!
@@ -55,7 +55,7 @@ See below for how you can join the Orcasound community and start contributing ri
 ---
 <sub>
 
-🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) and include emojis using this (cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
+🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) and include emojis using this (cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/). And if you're an open source project like us, you can [chat on Zulip for free!](https://zulip.com/for/open-source/)
 
 <details>
 * <h3> Google Summer of Code Prospective Contributors </h3>
