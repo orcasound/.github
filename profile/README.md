@@ -20,7 +20,7 @@ Our long-term motivation is to make the [Orcasound web app](https://live.orcasou
 
 Would you like to help save the orcas and contribute to open source software? 
 
-The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back-end or full stack developers, bioacousticians, data scientists) and **designers** (UXers and other *creatives*), as well as project managers, mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Zulip ([you're invited!](https://orcasound.zulipchat.com/join/42uml7y5yr7n7pbc7k2icbcb/)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
+The Orcasound organization on Github has a growing number of projects to which you can contribute. We welcome **coders** (front/back-end or full stack developers, bioacousticians, data scientists) and **User Experience Professionals**, as well as project managers, tech mentors, and hardware engineers. The [Orcasound community](https://www.orcasound.net/hacker-hall-of-fame/) is super-friendly, daily communication mainly happens on Zulip ([you're invited!](https://orcasound.zulipchat.com/join/42uml7y5yr7n7pbc7k2icbcb/)), and there are weekly virtual meetings where you can introduce yourself and hear what others are doing. 
 
 Here is the [Current Volunteer Handbook](https://drive.google.com/file/d/1GHuylE3qPm2UAyUA_f1yOtMgutBpXF6V/view?usp=sharing)(v.2022) where you can find more info about Orcasound's motivations, code of conduct, and high-priority projects.
 
