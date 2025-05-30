@@ -63,8 +63,8 @@ See below for how you can join the Orcasound community and start contributing ri
 		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
 
 ---
-<sub>
 
-🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) and include emojis using this (cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/). And if you're an open source project like us, you can [chat on Zulip for free!](https://zulip.com/for/open-source/)
+🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) and include emojis using this [cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/). 
+	
+And if you're an open source project like us, you can [chat on Zulip for free!](https://zulip.com/for/open-source/)
 
-</sub>
