@@ -16,7 +16,7 @@ Our long-term motivation is to make the [Orcasound web app](https://live.orcasou
 
 Based on our inaugural summit held in January, 2025, we are prioritizing these 7 projects this year:
 
-1. Improve community infrastructure and the onboarding experience (including cooperative governance and open collective financial management) 
+1. Improve community infrastructure and the onboarding experience (including cooperative governance, open collective financial management, and design/dev team project management) 
 2. Transition from intermittent (>1yr) versioning of software to a faster user-centered feature-based design/development cycle (e.g. 1-10 day developer sprints) 
 3. Add user accounts and a moderator role + UI to the live-listening web app
 4. Update the orcanode streaming code, swarm management, and dev/staging/production environments (integrating with the network admin dashboard))
@@ -61,6 +61,10 @@ See below for how you can join the Orcasound community and start contributing ri
   		+ First, [peruse deployed project summaries at ai4orcas.net](https://ai4orcas.net/portfolio/)
 		+ The current deployed model is the [OrcaHello live inference system](https://ai4orcas.net/portfolio/orcahello/). Its github repo is [aifororcas-livesystem](https://github.com/orcasound/aifororcas-livesystem). 
 		+ To those who are interested in finetuning the current ML model, the [ModelTraining](https://github.com/orcasound/aifororcas-livesystem/tree/main/ModelTraining) folder in the aifororcas repo is where you want to start.
+
+<h1>More about us (much more!)</h1>
+
+If this README hasn't addressed your questions or needs, please try the [Orcasound community wiki]([url](https://github.com/orcasound/.github/wiki)). It's a work in-progress, but we hope it will help answer FAQs efficiently over time. Your feedback is very welcome!
 
 ---
 
