@@ -64,7 +64,7 @@ See below for how you can join the Orcasound community and start contributing ri
 
 <h1>More about us (much more!)</h1>
 
-If this README hasn't addressed your questions or needs, please try the [Orcasound community wiki]([url](https://github.com/orcasound/.github/wiki)). It's a work in-progress, but we hope it will help answer FAQs efficiently over time. Your feedback is very welcome!
+If this README hasn't addressed your questions or needs, please try the [Orcasound community wiki](https://github.com/orcasound/.github/wiki). It's a work in-progress, but we hope it will help answer FAQs efficiently over time. Your feedback is very welcome!
 
 ---
 
