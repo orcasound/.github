@@ -6,7 +6,7 @@
 
 Since an [Orcasound Kickstarter in 2017](https://www.kickstarter.com/projects/sveirs/orcasound-listen-for-whales), we have been building open source software here on Github to help save the endangered orcas that seek salmon along the west coast of North America. Experiencing the live sounds of wild killer whales and acting to help conserve them is at the 💗 heart of our collective collaboration.
 
-We began with the challenge of building an end-to-end audio live-streaming solution to make it easy to *listen for whales* through the [Orcasound network of underwater microphones](https://orcasound.net) ("hydrophones") in orca habitat. The [orcanode repo](https://github.com/orcasound/orcanode) generates the audio data streams and the [orcasite repo](https://github.com/orcasound/orcasite) provides a web app for playback that "just works" in any browser and scales efficiently. 
+We began with the challenge of pioneering an open source solution to live-stream audio and make it easy to *listen for whales* through the [Orcasound network of underwater microphones](https://orcasound.net) ("hydrophones") in orca habitat. The [orcanode repo](https://github.com/orcasound/orcanode) generates the audio data streams and the [orcasite repo](https://github.com/orcasound/orcasite) provides a web app for playback that "just works" in any browser and scales efficiently. 
 
 From the beginning, we have benefited greatly from the amazing all-volunteer **hackathon** community -- mainly through the organizational efforts of [DemocracyLab](https://www.democracylab.org/projects/81) and [Microsoft Garage](https://www.microsoft.com/en-us/garage/) -- both through in-person events in/near Seattle (Washington, USA) as well as many virtual events during the COVID pandemic. Both Microsoft's [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program and [Amazon Activate](https://aws.amazon.com/activate/) have supported our efforts with grants and/or cloud service credits. In 2020-22, we benefited from Google Summer of Code contributors in the [orcagsoc repo](https://github.com/orcasound/orcagsoc) and in 2023 Amazon sponsored our data storage/egress via [Orcasound in Amazon's Open Data Registry](https://registry.opendata.aws/orcasound/). 
 
@@ -28,7 +28,7 @@ Based on our inaugural summit held in January, 2025, we are prioritizing these 7
 
 See where we may head next on [Orcasound's public road map](https://trello.com/b/wBg0qhss/orcasound-roadmap). You can also suggest or vote up features!
 
-An overarching goal we anticipate for 2026 is build conservation calls-to-action into the live-listening web app for some user personas.
+An overarching goal we anticipate for 2026 is incorporating conservation calls-to-action into the live-listening web app for some user personas.
 
 <h1> Welcome Aboard! 🛳️ </h1>
 
